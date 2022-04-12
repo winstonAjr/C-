@@ -1,0 +1,3 @@
+Questão 1: Fazer um programa de “criptografia” (codificação de dados visando a privacidade de acesso as informações), onde dada uma string (vetor de caracteres) este programa codifique os dados através de um processo de substituição de letras. Você pode definir o seu próprio método de criptografia, desde que depois seja possível reverter este processo, ou seja, um código criptografado deve poder ser convertido novamente ao valor inicial.
+
+Questão 2: Fazer um segundo programa, complementar a este anterior, que deve ser capaz de descriptografar a string, ou seja, deve pegar uma string codificada e retornar ao texto original.
