@@ -1,0 +1,2 @@
+Faça um programa que leia duas strings (de tamanho máximo 40). Após isso, o programa deve concatenar as informações lidas e mostrar o resultado para o usuário.
+Exemplo: Se a primeira string digitada for "Bom dia, " e a segunda "moçada !", então o resultado deverá ficar: "Bom dia, moçada !".
