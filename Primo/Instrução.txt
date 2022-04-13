@@ -1,0 +1,1 @@
+Escreva uma função para ler 10 elementos inteiros, colocá-los num vetor e retornar um outro vetor contendo todos os números primos do vetor inicial. Na função, imprima os valores dos dois vetores.
